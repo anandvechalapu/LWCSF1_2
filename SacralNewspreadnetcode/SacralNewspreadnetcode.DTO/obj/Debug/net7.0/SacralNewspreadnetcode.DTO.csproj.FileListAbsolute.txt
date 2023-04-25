@@ -1,0 +1,12 @@
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\bin\Debug\net7.0\SacralNewspreadnetcode.DTO.deps.json
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\bin\Debug\net7.0\SacralNewspreadnetcode.DTO.dll
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\bin\Debug\net7.0\SacralNewspreadnetcode.DTO.pdb
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\obj\Debug\net7.0\SacralNewspreadnetcode.DTO.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\obj\Debug\net7.0\SacralNewspreadnetcode.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\obj\Debug\net7.0\SacralNewspreadnetcode.DTO.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\obj\Debug\net7.0\SacralNewspreadnetcode.DTO.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\obj\Debug\net7.0\SacralNewspreadnetcode.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\obj\Debug\net7.0\SacralNewspreadnetcode.DTO.dll
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\obj\Debug\net7.0\refint\SacralNewspreadnetcode.DTO.dll
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\obj\Debug\net7.0\SacralNewspreadnetcode.DTO.pdb
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DTO\obj\Debug\net7.0\ref\SacralNewspreadnetcode.DTO.dll

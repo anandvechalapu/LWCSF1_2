@@ -1,0 +1,15 @@
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\bin\Debug\net7.0\SacralNewspreadnetcode.DataAccess.deps.json
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\bin\Debug\net7.0\SacralNewspreadnetcode.DataAccess.dll
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\bin\Debug\net7.0\SacralNewspreadnetcode.DataAccess.pdb
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\bin\Debug\net7.0\SacralNewspreadnetcode.DTO.dll
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\bin\Debug\net7.0\SacralNewspreadnetcode.DTO.pdb
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\obj\Debug\net7.0\SacralNewspreadnetcode.DataAccess.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\obj\Debug\net7.0\SacralNewspreadnetcode.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\obj\Debug\net7.0\SacralNewspreadnetcode.DataAccess.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\obj\Debug\net7.0\SacralNewspreadnetcode.DataAccess.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\obj\Debug\net7.0\SacralNewspreadnetcode.DataAccess.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\obj\Debug\net7.0\SacralNewspreadnetcode.DataAccess.csproj.CopyComplete
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\obj\Debug\net7.0\SacralNewspreadnetcode.DataAccess.dll
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\obj\Debug\net7.0\refint\SacralNewspreadnetcode.DataAccess.dll
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\obj\Debug\net7.0\SacralNewspreadnetcode.DataAccess.pdb
+C:\Amar\Debug\Apps\1\112\202304253621\SacralNewspreadnetcode\SacralNewspreadnetcode.DataAccess\obj\Debug\net7.0\ref\SacralNewspreadnetcode.DataAccess.dll
